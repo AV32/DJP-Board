@@ -54,7 +54,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Acknowledgements
 
-### Members of our Hackathon Tea
+### Members of our Hackathon Team
 
 #### Avinash Mittal - [GitHub](https://github.com/AV32), [LinkedIn](https://www.linkedin.com/in/avinash32mittal/)
 #### Utkarsh Vijay - [GitHub](https://github.com/NOOBUV), [LinkedIn](https://www.linkedin.com/in/utkarshvijayindo/)
